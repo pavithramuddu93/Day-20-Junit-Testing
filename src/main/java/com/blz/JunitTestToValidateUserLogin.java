@@ -1,5 +1,6 @@
 package com.blz;
 
+
 import java.util.regex.Pattern;
 
 public class JunitTestToValidateUserLogin {
